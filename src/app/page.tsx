@@ -13,7 +13,7 @@ export default function Home() {
         
         <div className="space-y-4">
           <p className="text-lg text-gray-700">
-            But feel free to check my LinkedIn in the meantime (it’s worth it 😉):
+            But feel free to check my LinkedIn in the meantime (it’s worth it 🫨):
           </p>
           
           <Link 
